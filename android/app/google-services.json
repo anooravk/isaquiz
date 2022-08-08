@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712589785865",
+    "project_id": "isaquiz-8a755",
+    "storage_bucket": "isaquiz-8a755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712589785865:android:686bb5e8decd76d5bb71d8",
+        "android_client_info": {
+          "package_name": "com.example.isaquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712589785865-k4olr8geo5br3r2qcfhu2q9mskj6gc5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwk0oUG-6bdxJAo8r6uh2UreqADFMst1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712589785865-k4olr8geo5br3r2qcfhu2q9mskj6gc5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
